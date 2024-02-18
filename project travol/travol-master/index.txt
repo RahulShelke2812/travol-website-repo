@@ -1,0 +1,212 @@
+Tourly - Travel agancy
+
+# HEADER
+
+<ion-icon name="call-outline"></ion-icon>
+For Further Inquires :
++01 (123) 4567 90
+
+alt = Tourly logo
+
+aria-label = Search
+<ion-icon name="search"></ion-icon>
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+alt = Tourly logo
+
+aria-label = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+home
+about us
+destination
+packages
+gallery
+contact us
+
+Book Now
+
+
+
+# HERO
+
+Journey to explore world
+
+Ac mi duis mollis. Sapiente? Scelerisque quae, penatibus? Suscipit class corporis nostra rem quos voluptatibus habitant? Fames, vivamus minim nemo enim, gravida lobortis quasi, eum.
+
+Learn more
+Book now
+
+
+
+# TOUR SEARCH
+
+Search Destination* 
+placeholder = Enter Destination
+
+Pax Number* 
+placeholder = No.of People
+
+Checkin Date*
+
+Checkout Date*
+
+Inquire now
+
+
+
+# POPULAR
+
+Uncover place
+
+Popular destination
+
+Travel not only for the sake of traveling, but to immerse yourself in new experiences. 
+
+alt = San miguel, italy
+
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+
+Italy
+
+San miguel
+
+    Travel not only for the sake of traveling, but to immerse yourself in new experiences.                   </p>
+
+alt = Burj khalifa, dubai
+
+Dubai
+
+Burj khalifa
+
+alt = Kyoto temple, japan
+
+Japan
+
+Kyoto temple
+
+More destintion
+
+
+
+# PACKAGE
+
+Popular Packeges
+
+Checkout Our Packeges
+
+ You can choose any country with good tourism.
+
+alt = Experience The Great Holiday On Beach
+
+Experience The Great Holiday On Beach
+
+   Let's cherish these moments and embrace the beauty of life's everyday wonders.
+
+<ion-icon name="time"></ion-icon>
+7D/6N
+
+<ion-icon name="people"></ion-icon>
+pax: 10
+
+<ion-icon name="location"></ion-icon>
+Malaysia
+
+(25 reviews)
+
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+
+$750
+/ per person
+
+Book Now
+
+alt = Summer Holiday To The Oxolotan River
+Summer Holiday To The Oxolotan River
+(20 reviews)
+$520
+
+alt = Santorini Island's Weekend Vacation
+Santorini Island's Weekend Vacation
+(40 reviews)
+$660
+
+
+View All Packages
+
+
+
+# GALLERY
+
+Photo Gallery
+Photo's From Travellers
+
+  Travel the world through stunning photos. Explore our curated gallery of traveler's snapshots, each one telling a unique story. Let these images inspire your next journey and share your own adventures with our community.
+
+alt = Gallery image
+
+
+
+# CTA
+
+Call To Action
+
+Ready For Unforgatable Travel. Remember Us!
+
+Embark on unforgettable adventures with us. Explore the world's wonders and create lasting memories. Let us be your guide to extraordinary experiences.
+
+Contact Us !
+
+
+
+# FOOTER
+
+alt = Tourly logo
+
+ Embark on unforgettable adventures with our tour packages. Designed for convenience and excitement, they combine comfort with exploration, offering unique experiences and lasting memories. Let our tours turn your dreams into reality, one destination at a time.
+
+
+Contact Us
+
+Feel free to contact and reach us !!
+
+<ion-icon name="call-outline"></ion-icon>
++01 (123) 4567 90
+
+<ion-icon name="mail-outline"></ion-icon>
+info.tourly.com
+
+<ion-icon name="location-outline"></ion-icon>
+3146 Koontz, California
+
+Subscribe our newsletter for more update & news !!
+
+placeholder = Enter Your Email
+
+Subscribe
+
+ All rights reserved
+
+Privacy Policy 
+Term & Condition 
+FAQ
+
+
+
+# GO TO TOP
+
+<ion-icon name="chevron-up-outline"></ion-icon>
