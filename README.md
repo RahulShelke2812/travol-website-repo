@@ -10,5 +10,4 @@
   <a href="https://travol-website.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
-project travol/travol-master/assets/images
-/logo-light.png
+
