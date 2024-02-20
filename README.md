@@ -1,7 +1,7 @@
 <div align="center">
 
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./readme-images/logo-light.png" />
 
   <h2 align="center">Travol - Travel website</h2>
 
@@ -10,3 +10,4 @@
   <a href="https://travol-website.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
+
